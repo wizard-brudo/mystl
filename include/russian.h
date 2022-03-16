@@ -7,7 +7,7 @@
 #define стд std
 #define вернуть return
 #define и and
-#define или and
+#define или or
 #define авто auto
 #define логич bool
 #define прервать break
